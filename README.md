@@ -6,7 +6,7 @@ The physical environment presented unique security challenges: the company rente
 ## ⚠️ Key Risks Identified
 
 ### Physical Vulnerabilities
-* [cite_start]**Fragmented Floor Plan:** The physical separation between the ground floor and third floor necessitated an unsecured communication link traversing unmanaged space[cite: 238, 239].
+* **Fragmented Floor Plan:** The physical separation between the ground floor and third floor necessitated an unsecured communication link traversing unmanaged space.
 * [cite_start]**Unsecured Infrastructure:** Plans to connect the floors via Ethernet over Power (EoP) adapters or high-speed Wi-Fi introduced severe risks of data interception and electromagnetic interference[cite: 153, 240, 242].
 * [cite_start]**Server Room Placement:** Critical servers and networking hubs were located in high-traffic, semi-public zones (like Reception) or standard open offices, increasing the risk of unauthorized physical access[cite: 244, 245, 247].
 
